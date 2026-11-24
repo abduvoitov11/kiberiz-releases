@@ -1,6 +1,6 @@
 {
-  "version_name": "13.1.1",
-  "version_code": 72379,
-  "changelog": "KiberIz 4.0.0 — Xavfsiz va shifrlangan Telegram mijoz ilovasi.\n\n- To'liq o'zbek tilida\n- Kiber-Qalqon xavfsizlik filtrlari\n- Reklamalarsiz va toza interfeys\n- Premium animatsiyali emojilar va jildlar to'liq ishlaydi",
+  "version_name": "4.1.0 (13.1.2)",
+  "version_code": 72385,
+  "changelog": "KiberIz 4.1.0 VIP Yangilanishi:\n\n• KiberIz Premium (450 ⭐ Stars) bo'limi qo'shildi\n• 👁 'Yashirin ko'rish (VIP)' — Bloklangan profillarni va storylarini yashirin ko'rish\n• Telegram Premium va Telegram Yulduzlari nomlari qaytarildi\n• Shifrlangan va xavfsiz himoya tizimi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v4.0.0/kiberiz4.apk"
 }
