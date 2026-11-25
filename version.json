@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72391,
-  "changelog": "🤖 KiberIz 14.1.0 AI Chat Yangilanishi (72391):\n\n• ✦ Kiberiz AI — Gemini 3.5 Flash Lite asosidagi to'liq o'zbek tilidagi AI chat\n• ⚡ Har bir foydalanuvchiga kunlik 35 ta bepul so'rov limiti\n• 💬 Telefonda saqlanuvchi shaxsiy suhbatlar tarixi va Telegram profilingiz avatari\n• 👁 Yashirin Tizim Akkaunti — 100% asl Telegram profilini ochish",
+  "version_code": 72392,
+  "changelog": "👁️ KiberIz 14.1.0 VIP Tabiiy Yashirin Ko'rish (72392):\n\n• 🎯 Ortiqcha dialog oynalar va sun'iy story tugmalari butunlay olib tashlandi\n• 📸 «Yashirin ko'rish» bosilganda rasmlar to'g‘ridan-to‘g‘ri profil doirasiga tushadi\n• 🌟 Agar foydalanuvchi story qo'ygan bo'lsa, xuddi oddiy Telegramdek doira atrofida rangli Story halqasi yonadi\n• ✦ Kiberiz AI Chat (Gemini 3.5 Lite, 35 ta so'rov, suhbatlar tarixi)",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
