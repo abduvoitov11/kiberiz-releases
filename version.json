@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72396,
-  "changelog": "👑 KiberIz 14.1.0 (72396) Asoschi Paneli & Toza Markdown:\n\n• 👑 @Torabek_Abduvoitov uchun maxsus KiberIz Asoschi Paneli integratsiya qilindi\n• 📱 O'rnatilgan ilovalar statistikasi, telemetriya va global kiber-xavfsizlik nazorati\n• ✨ Kiberiz AI'dagi ** xom yulduzcha belgilari to'liq bartaraf etilib, toza va chiroyli matn formatlash joriy etildi\n• ⚡ Asoschi uchun avtomatik cheksiz VIP va cheksiz AI so'rovlari",
+  "version_code": 72398,
+  "changelog": "✨ KiberIz 14.1.0 (72398) Moslashuvchan Liquid Glass & Asoschi Paneli:\n\n• 🔮 Barcha panellar va tugmalar (VIP, OTA, PIN, Admin, Kiberiz AI) foydalanuvchi tanlagan Telegram theme (Yorug'/Qorong'i/Rang) ga avtomatik moslashuvchi Real Liquid Glass dizayniga o'tkazildi\n• 👑 @Torabek_Abduvoitov uchun Asoschi Paneli: Jonli GitHub yuklash statistikasi, APK SHA-256 integriteti, kesh tozalagich, PIN qulf va real boshqaruv tugmalari\n• ✨ Kiberiz AI javoblaridagi ** va # markdown belgilari to'liq tozalab formatlandi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
