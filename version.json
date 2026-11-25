@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72390,
-  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi (72390):\n\n• 👁 Yashirin Tizim Akkaunti — 100% asl Telegram profilini ochish (Barcha fotosuratlar, Premium yulduzcha, emoji status va storylar)\n• 🌟 Premium Cyber VIP Oynasi — Yangi neon-qora uslubdagi modal dialog\n• ⚡ 0.1 soniyada ProfileActivity ochish va avtonom Anti-blok tizimi",
+  "version_code": 72391,
+  "changelog": "🤖 KiberIz 14.1.0 AI Chat Yangilanishi (72391):\n\n• ✦ Kiberiz AI — Gemini 3.5 Flash Lite asosidagi to'liq o'zbek tilidagi AI chat\n• ⚡ Har bir foydalanuvchiga kunlik 35 ta bepul so'rov limiti\n• 💬 Telefonda saqlanuvchi shaxsiy suhbatlar tarixi va Telegram profilingiz avatari\n• 👁 Yashirin Tizim Akkaunti — 100% asl Telegram profilini ochish",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
