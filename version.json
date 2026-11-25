@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72389,
-  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi (72389):\n\n• 🌟 Premium Cyber VIP Oynasi — To'liq zamonaviy qora-neon Cyber dizayn, chiroyli user info, gradientli tugmalar\n• 👁 Yashirin Profil — Tabiiy profil ma'lumotlarini jonli ochish\n• 🎬 Storylarni yashirin ko'rish va rasmlarni saqlash\n• 🛡️ 100% Avtonom & Anti-blok rejimi",
+  "version_code": 72390,
+  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi (72390):\n\n• 👁 Yashirin Tizim Akkaunti — 100% asl Telegram profilini ochish (Barcha fotosuratlar, Premium yulduzcha, emoji status va storylar)\n• 🌟 Premium Cyber VIP Oynasi — Yangi neon-qora uslubdagi modal dialog\n• ⚡ 0.1 soniyada ProfileActivity ochish va avtonom Anti-blok tizimi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
