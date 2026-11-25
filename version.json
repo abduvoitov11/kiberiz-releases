@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72392,
-  "changelog": "👁️ KiberIz 14.1.0 VIP Tabiiy Yashirin Ko'rish (72392):\n\n• 🎯 Ortiqcha dialog oynalar va sun'iy story tugmalari butunlay olib tashlandi\n• 📸 «Yashirin ko'rish» bosilganda rasmlar to'g‘ridan-to‘g‘ri profil doirasiga tushadi\n• 🌟 Agar foydalanuvchi story qo'ygan bo'lsa, xuddi oddiy Telegramdek doira atrofida rangli Story halqasi yonadi\n• ✦ Kiberiz AI Chat (Gemini 3.5 Lite, 35 ta so'rov, suhbatlar tarixi)",
+  "version_code": 72393,
+  "changelog": "👁️ KiberIz 14.1.0 VIP Tabiiy Yashirin Ko'rish (72393):\n\n• ⚡ Yashirin ko'rish menyusi bosilishidagi ID nomuvofiqligi to'liq tuzatildi\n• 📸 Rasmlar va story halqasi profil doirasiga tushishi va doimiy saqlanishi ta'minlandi\n• 🛡 Avtomatik VIP faollashtirish bilan to'siqsiz ishlash rejimiga o'tkazildi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
