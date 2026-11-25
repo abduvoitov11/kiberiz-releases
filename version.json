@@ -1,6 +1,6 @@
 {
-  "version_name": "14.0.0",
-  "version_code": 72385,
-  "changelog": "KiberIz 4.1.0 VIP Yangilanishi:\n\n• KiberIz Premium (450 ⭐ Stars) bo'limi qo'shildi\n• 👁 'Yashirin ko'rish (VIP)' — Bloklangan profillarni va storylarini yashirin ko'rish\n• Telegram Premium va Telegram Yulduzlari nomlari qaytarildi\n• Shifrlangan va xavfsiz himoya tizimi",
+  "version_name": "14.1.0",
+  "version_code": 72386,
+  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi:\n\n• 👁 Yashirin Profil (Anonim Ko'prik) — Bloklangan profillarni to'g'ridan-to'g'ri to'liq ekranda ko'rish (oraliq menyularsiz)\n• 🎬 Storylarni yashirin ko'rish va 📸 suratlarni saqlash\n• ⚡ KiberIz MTProto Server Ko'prigi integratsiyasi\n• ⭐ 450 Stars KiberIz Premium tarif tizimi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
