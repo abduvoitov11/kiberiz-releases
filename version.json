@@ -1,6 +1,6 @@
 {
   "version_name": "14.1.0",
-  "version_code": 72386,
-  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi:\n\n• 👁 Yashirin Profil (Anonim Ko'prik) — Bloklangan profillarni to'g'ridan-to'g'ri to'liq ekranda ko'rish (oraliq menyularsiz)\n• 🎬 Storylarni yashirin ko'rish va 📸 suratlarni saqlash\n• ⚡ KiberIz MTProto Server Ko'prigi integratsiyasi\n• ⭐ 450 Stars KiberIz Premium tarif tizimi",
+  "version_code": 72387,
+  "changelog": "🛡️ KiberIz 14.1.0 VIP Yangilanishi (72387):\n\n• 👁 Yashirin Profil (100% Native Telegram ko'rinishida) — Sun'iy kartochkalarsiz, fotosuratlar va bio to'g'ridan-to'g'ri Telegram profilida ochiladi\n• 📱 100% Avtonom Tizim — Tashqi server yoki noutbukka ehtiyoj yo'q, har bir telefonning o'zida mustaqil ishlaydi\n• 📸 Fotosuratlarni to'liq ekranda ochish va tomosha qilish\n• 🎬 Storylarni yashirin (anonim) ko'rish\n• 🛡️ Anti-blok va Ghost rejimi to'liq integratsiya qilindi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
