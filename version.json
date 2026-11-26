@@ -1,6 +1,8 @@
 {
-  "version_name": "14.1.3",
-  "version_code": 72401,
-  "changelog": "✨ KiberIz 14.1.3 (72401) Premium Himoya, Co-Founder & AI Fix:\n\n• 🔒 Kiberiz AI va Yashirin ko'rish / Arvoh rejimi endi qat'iy ravishda faqat KiberIz Premium (450 ⭐) egalari uchun ishlaydi\n• ⌨️ Kiberiz AI chatida 1-xabardan keyin 2-marta yoza olmay qolish muammosi to'liq tuzatildi\n• 🛡️ @anvarov_73 Tizim Co-Founderi sifatida avtomatik taniladi va Asoschi bilan bir xil barcha ruxsatlarga ega bo'ldi\n• 👥 O'rnatuvchilar shaxsiy ro'yxati GitHub maxfiy bazasi (.txt) bilan jonli sinxronizatsiyaga ulandi",
-  "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
+  "version_name": "14.1.4",
+  "version_code": 72402,
+  "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
+  "changelog": "KiberIz v14.1.4: Premium endi faqat Yashirin ko'rish va Kiberiz AI uchun (qolgan barcha funksiyalar to'liq bepul); @Torabek_Abduvoitov uchun tekshirish/test rejimi; Kiberiz AI loyiha asoschilari va ilova bo'yicha to'liq shaxsiy agent sifatida o'qitildi.",
+  "sha256": "83564cbe87eca572ce86eb5c48f091aa15292f59ab3ded3f6c92e07352c36e8f",
+  "size_bytes": 88859199
 }
