@@ -1,6 +1,6 @@
 {
-  "version_name": "14.1.2",
-  "version_code": 72400,
-  "changelog": "✨ KiberIz 14.1.2 (72400) Rasmiy Animatsiya & QR Brending:\n\n• 🛡️ Ilova ochilishida (Splash & Launch) endi rasmiy KiberIz-4 kiber-qalqon emblemasi jonli animatsiya va neon halqalar bilan chiqadi\n• 🌀 QR kod markazidagi oddiy ko'k doira va Telegram belgisi olib tashlanib, barcha QR oynalarda rasmiy KiberIz logosi hilpirab turadigan qilib yangilandi\n• ✨ Barcha Lottie/QR effektlarining qatlam tartibi va tasvir aniqligi (512x512) yaxshilandi",
+  "version_name": "14.1.3",
+  "version_code": 72401,
+  "changelog": "✨ KiberIz 14.1.3 (72401) Premium Himoya, Co-Founder & AI Fix:\n\n• 🔒 Kiberiz AI va Yashirin ko'rish / Arvoh rejimi endi qat'iy ravishda faqat KiberIz Premium (450 ⭐) egalari uchun ishlaydi\n• ⌨️ Kiberiz AI chatida 1-xabardan keyin 2-marta yoza olmay qolish muammosi to'liq tuzatildi\n• 🛡️ @anvarov_73 Tizim Co-Founderi sifatida avtomatik taniladi va Asoschi bilan bir xil barcha ruxsatlarga ega bo'ldi\n• 👥 O'rnatuvchilar shaxsiy ro'yxati GitHub maxfiy bazasi (.txt) bilan jonli sinxronizatsiyaga ulandi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
