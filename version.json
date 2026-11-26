@@ -1,6 +1,6 @@
 {
-  "version_name": "14.1.1",
-  "version_code": 72399,
-  "changelog": "✨ KiberIz 14.1.1 (72399) Barqarorlik, AI Klaviatura & Rasmiy Brend:\n\n• ⌨️ Kiberiz AI chatida yozayotganda kiritish maydoni klaviatura bilan birga tepaga ko'tariladi va ko'p qatorli matn sig'ishi tuzatildi\n• 🎨 Barcha bo'limlardagi eski/oddiy logolar olib tashlanib, rasmiy KiberIz-4 kiber-qalqon emblemasi joylashtirildi (Sozlamalar, AI, VIP, Asoschi, Splash, QR)\n• 🤖 Kiberiz AI barqarorligi oshirildi (6 ta API kalit + zaxira model rotatsiyasi, ikki marta bosish himoyasi, tarix sinxronizatsiyasi) va kunlik limit 15 ta etib belgilandi\n• 📸 Android 10–16 qurilmalarda rasmni galereyaga saqlash (MediaStore) xatoligi tuzatildi",
+  "version_name": "14.1.2",
+  "version_code": 72400,
+  "changelog": "✨ KiberIz 14.1.2 (72400) Rasmiy Animatsiya & QR Brending:\n\n• 🛡️ Ilova ochilishida (Splash & Launch) endi rasmiy KiberIz-4 kiber-qalqon emblemasi jonli animatsiya va neon halqalar bilan chiqadi\n• 🌀 QR kod markazidagi oddiy ko'k doira va Telegram belgisi olib tashlanib, barcha QR oynalarda rasmiy KiberIz logosi hilpirab turadigan qilib yangilandi\n• ✨ Barcha Lottie/QR effektlarining qatlam tartibi va tasvir aniqligi (512x512) yaxshilandi",
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk"
 }
