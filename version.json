@@ -1,8 +1,8 @@
 {
-  "version_name": "14.1.8",
-  "version_code": 72406,
+  "version_name": "14.1.9",
+  "version_code": 72407,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v14.1.8: KiberIz Premium bo'limidan tarifni faollashtirish/yangilash tugmasi bosilganda ilovadan chiqmasdan to'g'ridan-to'g'ri @Kiberiz_bot ichiga kirish qo'shildi.",
-  "sha256": "b81da596df2f87e1401eda7c4acc8a56654eab0ee2bb5cf29d460ba0977f1fc3",
+  "changelog": "KiberIz v14.1.9: Sozlamalar pastki qismidagi tizim matni «Kiberiz Debug menu» ga o'zgartirildi (emoji va eski brend olib tashlandi).",
+  "sha256": "4b0221563a83eb850ea817ab70b1cf2dd0cff94877780699fabbedf1d7491bed",
   "size_bytes": 88863295
 }
