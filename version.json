@@ -1,8 +1,8 @@
 {
-  "version_name": "1.0.0",
-  "version_code": 1,
+  "version_name": "14.1.6",
+  "version_code": 72404,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v1.0.0 (v1): @Kiberiz_bot orqali oyiga 150 ⭐ Stars (30 kun) obuna va avtomatik uzaytirish, hamda Google Play uchun rasmiy v1 relizi.",
-  "sha256": "2cfb98b4ff8e465bd9732aaf2efccecc2c1b2d89915122813509215a027a1587",
+  "changelog": "KiberIz v14.1.6: @Kiberiz_bot orqali oyiga 150 ⭐ Telegram Stars (30 kun) obuna va avtomatik uzaytirish bilan sinxronlandi.",
+  "sha256": "d2cea415548d52d48b9300b486aaa0bf1982244e6c0948964e084ef96d0f03bd",
   "size_bytes": 88859199
 }
