@@ -1,8 +1,8 @@
 {
-  "version_name": "14.1.6",
-  "version_code": 72404,
+  "version_name": "14.1.7",
+  "version_code": 72405,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v14.1.6: @Kiberiz_bot orqali oyiga 150 ⭐ Telegram Stars (30 kun) obuna va avtomatik uzaytirish bilan sinxronlandi.",
-  "sha256": "d2cea415548d52d48b9300b486aaa0bf1982244e6c0948964e084ef96d0f03bd",
-  "size_bytes": 88859199
+  "changelog": "KiberIz v14.1.7: Kiberiz AI bloklagan xabar ustiga bosilganda ogohlantirish oynasi va «Majburiy ko'rish» orqali yashirilgan ma'lumotni ochish hamda qayta bloklash funksiyasi qo'shildi.",
+  "sha256": "30073c3905b9086aea8ba63863219343179f2f4f100391ad7f7d1eb0d1f2b9de",
+  "size_bytes": 88863295
 }
