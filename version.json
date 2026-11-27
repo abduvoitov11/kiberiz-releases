@@ -1,8 +1,8 @@
 {
-  "version_name": "14.1.7",
-  "version_code": 72405,
+  "version_name": "14.1.8",
+  "version_code": 72406,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v14.1.7: Kiberiz AI bloklagan xabar ustiga bosilganda ogohlantirish oynasi va «Majburiy ko'rish» orqali yashirilgan ma'lumotni ochish hamda qayta bloklash funksiyasi qo'shildi.",
-  "sha256": "30073c3905b9086aea8ba63863219343179f2f4f100391ad7f7d1eb0d1f2b9de",
+  "changelog": "KiberIz v14.1.8: KiberIz Premium bo'limidan tarifni faollashtirish/yangilash tugmasi bosilganda ilovadan chiqmasdan to'g'ridan-to'g'ri @Kiberiz_bot ichiga kirish qo'shildi.",
+  "sha256": "b81da596df2f87e1401eda7c4acc8a56654eab0ee2bb5cf29d460ba0977f1fc3",
   "size_bytes": 88863295
 }
