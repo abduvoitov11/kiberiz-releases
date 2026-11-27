@@ -1,8 +1,8 @@
 {
-  "version_name": "14.1.4",
-  "version_code": 72402,
+  "version_name": "1.0.0",
+  "version_code": 1,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v14.1.4: Premium endi faqat Yashirin ko'rish va Kiberiz AI uchun (qolgan barcha funksiyalar to'liq bepul); @Torabek_Abduvoitov uchun tekshirish/test rejimi; Kiberiz AI loyiha asoschilari va ilova bo'yicha to'liq shaxsiy agent sifatida o'qitildi.",
-  "sha256": "83564cbe87eca572ce86eb5c48f091aa15292f59ab3ded3f6c92e07352c36e8f",
+  "changelog": "KiberIz v1.0.0 (v1): @Kiberiz_bot orqali oyiga 150 ⭐ Stars (30 kun) obuna va avtomatik uzaytirish, hamda Google Play uchun rasmiy v1 relizi.",
+  "sha256": "2cfb98b4ff8e465bd9732aaf2efccecc2c1b2d89915122813509215a027a1587",
   "size_bytes": 88859199
 }
