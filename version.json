@@ -1,8 +1,8 @@
 {
-  "version_name": "14.2.0",
-  "version_code": 72408,
+  "version_name": "14.3.0",
+  "version_code": 72409,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "\ud83e\udd85 KiberIz v14.2.0: Yangi zamonaviy \u00abKiberIz Falcon\u00bb (Lochin) ikonkasi joriy etildi! Ilova sozlamalarida Falcon va Classic tanlash imkoniyati, ortiqcha piktogrammalar olib tashlandi.",
-  "sha256": "662283d988c88ff3391d7dfe158469dd8a18c1b894595e3ce055858068a37b2f",
-  "size_bytes": 88879679
+  "changelog": "\ud83d\udc3a KiberIz v14.3.0: Yangi \u00abCyber Wolf (Ko\u2018k Bo\u2018ri)\u00bb ikonkasi qo\u2018shildi! Sozlamalarda Falcon, Classic va Wolf tanlash imkoniyati, xabarnoma (notification) va ochilish splash screeni to'liq tanlangan ikonkaga moslandi.",
+  "sha256": "02f5fa82e4548f8f696d772a044437bbe88ec445520ed1f6f876215530c457c3",
+  "size_bytes": 88883775
 }
