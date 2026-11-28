@@ -1,8 +1,11 @@
 {
-  "versionCode": 72411,
-  "versionName": "14.5.0",
+  "version_code": 72412,
+  "versionCode": 72412,
+  "version_name": "14.5.1",
+  "versionName": "14.5.1",
+  "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
   "downloadUrl": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "🚀 KiberIz v14.5.0: 9 ta to'liq kiber-ikonkalar to'plami va har bir ikonka uchun individual jonli ochilish (Launch Logo) animatsiyasi! Yangi ikonkalar: 🧊 Frostbite Glacier (Kriogen Muz Qalqon) va 💎 Billura Crystal Romance (Billur Romantika). To'liq to'plam: 🦅 Falcon (Lochin), 🛡️ Classic (Qalqon), 🐺 Cyber Wolf (Ko‘k Bo‘ri), 🟢 Matrix Cyber-Stealth (Hacker), 🤍 Titanium Minimalist (Apple Style), 👑 Imperial Gold (VIP Elita), 🌸 Sakura Blossom (Romantik), 🧊 Frostbite Glacier (Kriogen Muz) va 💎 Billura Crystal Romance (Billur Romantika). Ilova ochilganda tanlangan ikonkaning logosi, o'ziga xos aurasimon neon nuri, 3D shimmer effekti va mos subtitri bilan chiroyli animatsiya bo'lib chiqadi.",
-  "sha256": "d7d7c414453b0f9c16e1347df359ba709a870c699fa37bd0a153415fab3f518b",
-  "size_bytes": 99472557
+  "changelog": "🚀 KiberIz v14.5.1: 8 ta to'liq kiber-ikonkalar to'plami va yangilanishlarni tekshirish (OTA) tizimi to'liq tuzatildi! Ikonkalar: 🦅 Falcon (Lochin), 🛡️ Classic (Qalqon), 🐺 Cyber Wolf (Ko‘k Bo‘ri), 🟢 Matrix Cyber-Stealth (Hacker), 🤍 Titanium Minimalist (Apple Style), 👑 Imperial Gold (VIP Elita), 🌸 Sakura Blossom (Romantik), va 🧊 Frostbite Glacier (Kriogen Muz). Har bir ikonka uchun ilova ochilishida alohida jonli Launch Logo animatsiyasi ishlaydi. Ilova ichida yangilanishlarni tekshirish (Check for updates) to'liq barqarorlashtirildi.",
+  "sha256": "fa91fa612c56788968e8dfaa12151c055482f89734cd49e337f99582dffb8427",
+  "size_bytes": 97838183
 }
