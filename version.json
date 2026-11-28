@@ -1,8 +1,8 @@
 {
-  "version_name": "14.1.9",
-  "version_code": 72407,
+  "version_name": "14.2.0",
+  "version_code": 72408,
   "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "KiberIz v14.1.9: Sozlamalar pastki qismidagi tizim matni «Kiberiz Debug menu» ga o'zgartirildi (emoji va eski brend olib tashlandi).",
-  "sha256": "4b0221563a83eb850ea817ab70b1cf2dd0cff94877780699fabbedf1d7491bed",
-  "size_bytes": 88863295
+  "changelog": "\ud83e\udd85 KiberIz v14.2.0: Yangi zamonaviy \u00abKiberIz Falcon\u00bb (Lochin) ikonkasi joriy etildi! Ilova sozlamalarida Falcon va Classic tanlash imkoniyati, ortiqcha piktogrammalar olib tashlandi.",
+  "sha256": "662283d988c88ff3391d7dfe158469dd8a18c1b894595e3ce055858068a37b2f",
+  "size_bytes": 88879679
 }
