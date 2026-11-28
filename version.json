@@ -1,8 +1,8 @@
 {
-  "version_name": "14.3.0",
-  "version_code": 72409,
-  "download_url": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
-  "changelog": "\ud83d\udc3a KiberIz v14.3.0: Yangi \u00abCyber Wolf (Ko\u2018k Bo\u2018ri)\u00bb ikonkasi qo\u2018shildi! Sozlamalarda Falcon, Classic va Wolf tanlash imkoniyati, xabarnoma (notification) va ochilish splash screeni to'liq tanlangan ikonkaga moslandi.",
-  "sha256": "02f5fa82e4548f8f696d772a044437bbe88ec445520ed1f6f876215530c457c3",
-  "size_bytes": 88883775
+  "versionCode": 72410,
+  "versionName": "14.4.0",
+  "downloadUrl": "https://github.com/abduvoitov11/kiberiz-releases/releases/download/v14.0.0/kiberiz4.apk",
+  "changelog": "🚀 KiberIz v14.4.0: 7 ta to'liq kiber-ikonkalar to'plami! 🦅 Falcon (Lochin), 🛡️ Classic (Qalqon), 🐺 Cyber Wolf (Ko‘k Bo‘ri), 🟢 Matrix Cyber-Stealth (Hacker), 🤍 Titanium Minimalist (Apple Style), 👑 Imperial Gold (VIP Elita) va 🌸 Sakura Blossom (Romantik). Har bir tanlangan ikonka ilova ochilishida (Splash Screen), xabarnomalarda va tizimda to'liq mos ravishda aks etadi.",
+  "sha256": "d5588ecc41086b34d2d9b3c68e12cad88ed056c272fc390483a5973a5f2c4358",
+  "size_bytes": 88912447
 }
